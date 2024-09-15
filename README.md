@@ -1,5 +1,5 @@
-## 🌐 About me:
-- Hi, my name is Emile
+## 💫 About me:
+- Hi, my name is Emile 👋
 - I am a future computer science engineer (currently in BAC+4)
 - I am passionate about the world of software development, web or mobile, both on the backend and frontend side.
 
